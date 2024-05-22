@@ -1,0 +1,243 @@
+{
+  "details": [
+    {
+      "name": "sita",
+      "age": 12,
+      "hobbies": [
+        "reading",
+        "playing"
+      ],
+      "id": "a620"
+    },
+    {
+      "name": "thanu",
+      "age": 21,
+      "hobbies": [
+        "sleeping",
+        "playing"
+      ],
+      "id": "ebdc"
+    },
+    {
+      "name": "anu",
+      "age": 27,
+      "hobbies": [
+        "playing"
+      ],
+      "id": "7115"
+    },
+    {
+      "name": "jessi",
+      "age": 21,
+      "hobbies": [
+        "reading",
+        "sleeping"
+      ],
+      "id": "d3af"
+    },
+    {
+      "name": "manu",
+      "age": 21,
+      "hobbies": [
+        "cooking",
+        "coding"
+      ],
+      "id": "6b28"
+    },
+    {
+      "id": "36f2",
+      "name": "nithya",
+      "age": 17,
+      "hobbies": [
+        "playing",
+        "ihsdudh"
+      ]
+    },
+    {
+      "id": "5b97",
+      "name": "madhu",
+      "age": 23,
+      "hobbies": [
+        "singing",
+        "dancing"
+      ]
+    },
+    {
+      "id": "3b45",
+      "name": "Anisha",
+      "age": "35",
+      "hobbies": [
+        "playing",
+        "Eating"
+      ],
+      "languages": "English",
+      "course": "Degree"
+    },
+    {
+      "id": "8b97",
+      "name": "jjjj",
+      "age": "jikk",
+      "hobbies": [
+        "playing",
+        "Eating"
+      ],
+      "languages": "English",
+      "course": ""
+    },
+    {
+      "id": "2fde",
+      "name": "jjjj",
+      "age": "jikk",
+      "hobbies": [
+        "playing",
+        "Eating"
+      ],
+      "languages": "English",
+      "course": ""
+    },
+    {
+      "id": "7843",
+      "name": "jjjj",
+      "age": "jikk",
+      "hobbies": [
+        "playing",
+        "Eating"
+      ],
+      "languages": "English",
+      "course": "Dental"
+    },
+    {
+      "id": "2",
+      "name": "srikanth",
+      "age": "49",
+      "hobbies": [
+        "Eating"
+      ],
+      "languages": "Telugu",
+      "course": "Degree"
+    },
+    {
+      "id": "1",
+      "name": "deekistha",
+      "age": "16",
+      "hobbies": [
+        "Playing",
+        "Eating",
+        "Singing"
+      ],
+      "languages": "English",
+      "course": "B.Tech"
+    },
+    {
+      "id": "9889",
+      "name": "kjk",
+      "age": "l",
+      "hobbies": [
+        "Playing",
+        "Eating"
+      ],
+      "languages": "English",
+      "course": "Degree"
+    },
+    {
+      "id": "34"
+    },
+    {
+      "id": "4",
+      "name": "samhitha",
+      "age": "65",
+      "hobbies": [
+        "Eating"
+      ],
+      "languages": "English",
+      "course": "Medical"
+    },
+    {
+      "id": "53"
+    },
+    {
+      "id": "989",
+      "name": "xhvjac",
+      "age": "09",
+      "hobbies": [
+        "Eating"
+      ],
+      "languages": "Telugu",
+      "course": "B.Tech"
+    },
+    {
+      "id": "36",
+      "name": "steve",
+      "age": "14",
+      "hobbies": [
+        "Playing",
+        "Singing",
+        "Eating"
+      ],
+      "languages": "Hindi",
+      "course": "B.Tech"
+    },
+    {
+      "id": "51",
+      "name": "nissy",
+      "age": "28",
+      "hobbies": [
+        "Eating",
+        "Singing"
+      ],
+      "languages": "English",
+      "course": "Medical"
+    },
+    {
+      "id": "13",
+      "name": "pariii",
+      "age": "15",
+      "hobbies": [
+        "Eating"
+      ],
+      "languages": "English",
+      "course": "Dental"
+    },
+    {
+      "id": "c5",
+      "name": "sathvikka",
+      "age": "20",
+      "hobbies": [
+        "Singing"
+      ],
+      "languages": "Telugu",
+      "course": "Medical"
+    },
+    {
+      "id": "34",
+      "name": "leela",
+      "age": "89",
+      "hobbies": [
+        "Eating"
+      ],
+      "languages": "Hindi",
+      "course": "Dental"
+    },
+    {
+      "id": "100",
+      "name": "charishma",
+      "age": "24",
+      "hobbies": [
+        "Eating"
+      ],
+      "languages": "English",
+      "course": "B.Tech"
+    },
+    {
+      "id": "35",
+      "name": "malika",
+      "age": "78",
+      "hobbies": [
+        "Eating",
+        "Singing"
+      ],
+      "languages": "English",
+      "course": "B.Tech"
+    }
+  ]
+}
